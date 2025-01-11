@@ -25,7 +25,17 @@
                     <ul>
                         <li>
                             <a href="exercise.php?dir=basic&file=hello">
-                                Olá PHP!
+                                Olá PHP
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercise.php?dir=basic&file=html">
+                                Integração HTML
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercise.php?dir=basic&file=css">
+                                Integração CSS
                             </a>
                         </li>
                     </ul>
