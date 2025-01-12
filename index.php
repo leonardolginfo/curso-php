@@ -58,6 +58,11 @@
                                 Tipo Int em PHP
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=tipos&file=float">
+                                Tipo Float em PHP
+                            </a>
+                        </li>
                        
                     </ul>
                 </div>
