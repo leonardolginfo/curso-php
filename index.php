@@ -43,6 +43,11 @@
                                 Comentários em PHP
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=basic&file=desafio">
+                                Desafio básico em PHP
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
