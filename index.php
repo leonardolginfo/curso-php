@@ -63,7 +63,17 @@
                                 Tipo Float em PHP
                             </a>
                         </li>
-                       
+                        <li>
+                            <a href="exercise.php?dir=tipos&file=aritimeticas">
+                                Operações aritméticas em PHP
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercise.php?dir=tipos&file=desafio_precedencia">
+                                Desafio precedência
+                            </a>
+                        </li>
+
                     </ul>
                 </div>
             </nav>
