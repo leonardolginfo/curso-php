@@ -73,6 +73,11 @@
                                 Desafio precedência
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=tipos&file=string">
+                                Tipo String
+                            </a>
+                        </li>
 
                     </ul>
                 </div>
