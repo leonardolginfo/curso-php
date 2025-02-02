@@ -78,6 +78,11 @@
                                 Tipo String
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=tipos&file=desafio_string">
+                                Desafio String em PHP
+                            </a>
+                        </li>
 
                     </ul>
                 </div>
