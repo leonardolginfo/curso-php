@@ -83,6 +83,11 @@
                                 Desafio String em PHP
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=tipos&file=tipo_booleano">
+                                Booleano em PHP
+                            </a>
+                        </li>
 
                     </ul>
                 </div>
