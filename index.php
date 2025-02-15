@@ -88,6 +88,11 @@
                                 Booleano em PHP
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=tipos&file=conversoes">
+                               Conversões em PHP
+                            </a>
+                        </li>
 
                     </ul>
                 </div>
